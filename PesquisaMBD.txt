@@ -1,0 +1,32 @@
+MySQL
+OracleDB:
+	PREÇOS:Compartilhe sua visão de mercado, interaja com outros usuários no fórum, faça comparações e descubra tudo sobre NYSE: ORCL (ISIN: US68389X1054). Quanto custa uma ação Oracle hoje? O preço da ação ORCL hoje é 143,42. ORCL paga dividendos mensais?
+	REGISTROS EM SUAS ENTIDADES:
+		Revise os limites de serviço a seguir para recursos do Oracle Integration Generation 2. Um limite de serviço é a cota ou permissão definida em um recurso. Você não pode alterar os limites de serviço configurados para sua conta do Cloud.
+		Observação: Esse valor é o número de instâncias de serviço que você provisiona por região e não o número de instâncias de integração (por exemplo, orquestração orientada a aplicativo e orquestração programada) que você ativa e monitora na guia Monitoramento no Oracle Integration.
+		Contagem de instâncias do serviço de integração: 200 instâncias por região.
+		Pontos finais personalizados - número máximo: 3 pontos finais personalizados alternativos.
+	PORTE: O Oracle Database serve para ambos, mas é mundialmente reconhecido como o padrão de mercado para empresas de grande porte e sistemas de missão crítica. 
+
+SQL Server:
+	PREÇOS: O preço da licença do SQL Server 2022 varia conforme a edição e o modelo, com a Standard (por núcleo) custando cerca de US$ 3.945 por pacote de 2 núcleos. Opções incluem licenciamento por servidor (a partir de ~US$ 989) + CALs (usuários/dispositivos, ~US$ 230), ou assinaturas anuais (Standard ~US$ 1.418/ano). 
+	REGISTROS EM SUAS ENTIDADES: Bytes por chave de índice	900 bytes para um índice clusterizado. 1.700 bytes para um índice não clusterizado. No SQL Server 2014 (12.x) e anteriores, todas as versões davam suporte a 900 bytes para todos os tipos de índice.	O número máximo de bytes em qualquer chave de índice clusterizado não pode exceder 900. Para uma chave de índice não clusterizado, o máximo é 1.700 bytes.
+Tamanho máximo da base de dados	10 GB	524 PB
+Processamento máximo utilizado por instância	4 vCPUs	128 vCPUs
+Memória máxima utilizada por instância	1410 MB	128 GB
+Memória máxima para cache de segmento Columnstore por instância	352 MB 32 GB
+O SQL Server é versátil e atende a empresas de todos os portes, desde pequenas até grandes corporações. Ele possui edições específicas: a Express é gratuita e ideal para pequenos negócios/startups, enquanto as versões Standard e Enterprise oferecem alta escalabilidade e segurança para demandas médias e corporativas. 
+Microsoft Learn
+Microsoft Learn
+ +4
+
+
+https://learn.microsoft.com/pt-br/sql/sql-server/editions-and-components-of-sql-server-2017?view=sql-server-ver17
+https://www.microsoft.com/pt-br/sql-server/sql-server-2022-pricing
+https://learn.microsoft.com/pt-br/sql/sql-server/maximum-capacity-specifications-for-sql-server?view=sql-server-ver17
+https://docs.oracle.com/pt-br/iaas/integration/doc/service-limits.html
+https://br.investing.com/equities/oracle-corp
+https://learn.microsoft.com/pt-br/sql/sql-server/editions-and-components-of-sql-server-2017?view=sql-server-ver17
+https://www.treinaweb.com.br/blog/os-principais-sgbds-relacionais
+
+
