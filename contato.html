@@ -8,7 +8,7 @@
     <meta name="author" content="livia">
     <title>Projeto 1 - Netflix</title>
     <link rel="shortcut icon" href="img/netflix_icon.png" type="image/png" />
-    <link rel="stylesheet" href="css/style_index.css"/>
+    <link rel="stylesheet" href="css/style_contato.css"/>
   </head>
   <body>
     <div class="container">
@@ -20,10 +20,10 @@
           <h3>Assista a suas series e filmes favoritos a qualquer momento!</h3>
         </section>
         <ul class="menu-topo">
-            <li><a href="index.html" title="Conheça a empresa">Página Inicial</li></a>
-            <li><a href="contato.html" title="Entre em contato">Fale conosco</li></a>
-            <li><a href="sobre.html" title="Entenda sobre a criação do sistema">Sobre</li></a>
-            <li><a href="fotos.html" title="Veja algumas fotos">Fotos</li></a>
+            <li><a href="index.html" title="Conheça a empresa">Página Inicial</a></li>
+            <li><a href="contato.html" title="Entre em contato">Fale conosco</a></li>
+            <li><a href="sobre.html" title="Entenda sobre a criação do sistema">Sobre</a></li>
+            <li><a href="fotos.html" title="Veja algumas fotos">Fotos</a></li>
           </ul>
       </header>
       <div class="conteudo">
@@ -39,8 +39,11 @@
           <section>
             <h3>Formulário de Contato</h3>
             <form action="formulario">
-              <!-- gmail do usuario -->
-               <!-- espaço para enviar mensagem -->
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email"><br><br>
+            <label for="mensagem">Mensagem:</label><br>
+            <textarea id="mensagem" name="mensagem"></textarea><br><br>
+            <button type="submit">Enviar</button>
             </form>
           </section>
         <aside>
